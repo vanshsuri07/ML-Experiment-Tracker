@@ -18,7 +18,7 @@ A simple Node.js API to track machine learning experiments, including their asso
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone (https://github.com/vanshsuri07/ML-Experiment-Tracker)
     cd ml-exp-tracker
     ```
 
